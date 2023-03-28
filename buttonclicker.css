@@ -1,0 +1,58 @@
+body{
+    text-align: -webkit-center;
+    margin-top: 0;
+}
+main{
+    margin: 0 0 0 300px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    width: 700px;
+    height: 50px;
+    align-items: center;
+    padding: 10px;
+}
+.searchtool{
+    width: 200px;
+    border: 2px solid black;
+    height: 22px;
+}
+.buttonlogin{
+    background-color: blue;
+    color: white;
+    height: 22px;
+    box-shadow: 2px 2px black;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    width: 400px;
+    padding: 5px;
+    margin: 5px 5px 5px 0;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+.text{
+    text-align: left;
+    padding-left: 5px;
+}
+.dflex{
+    display: flex;
+}
+.box3{
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+    padding: 5px;
+    margin-top: 5px;
+}
+.buttonlikes{
+    background-color: rgb(211, 175, 12);
+    box-shadow: 2px 2px black;
+}
